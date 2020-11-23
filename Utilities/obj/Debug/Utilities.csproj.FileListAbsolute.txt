@@ -1,0 +1,4 @@
+D:\ASHFAQUE\COMPUTERS\softwere\ASP\CafeManagementSystem\Utilities\bin\Debug\Utilities.dll
+D:\ASHFAQUE\COMPUTERS\softwere\ASP\CafeManagementSystem\Utilities\bin\Debug\Utilities.pdb
+D:\ASHFAQUE\COMPUTERS\softwere\ASP\CafeManagementSystem\Utilities\obj\Debug\Utilities.dll
+D:\ASHFAQUE\COMPUTERS\softwere\ASP\CafeManagementSystem\Utilities\obj\Debug\Utilities.pdb
